@@ -1,0 +1,25 @@
+{
+  "templateVersion": "0.2",
+  "product": {
+    "name": "Magento 2 UI Library",
+    "description": "Documentation for the Magento 2 UI Library"
+  },
+  "contacts": {
+    "team": {
+      "name": "Commerce Docs",
+      "DL": "Grp-commerce-docs",
+      "slackChannel": "#commerce-docs"
+    }
+  },
+  "ticketTracker": {
+    "functionalJiraQueue": {
+        "projectKey": "COMDOX",
+        "component": "DocOps"
+    },
+    "securityJiraQueue": {
+        "projectKey": "MAGREQ",
+        "component": "Commerce M2"
+    }
+  },  
+  "productionCodeBranches": ["master"]
+}
